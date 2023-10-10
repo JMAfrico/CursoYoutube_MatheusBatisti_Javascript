@@ -1,0 +1,16 @@
+{
+    "nome":"João",
+    "idade": 32,
+    "esta_trabalhando": true,
+    "hobbies": ["violao","games"],
+    "detalhes_profissao":{
+        "profissao":"Tester",
+        "empresa":"Accenture"
+    },
+    "endereco":{
+        "rua":"SSão Paulo",
+        "cidade":"SP"
+    }
+}
+
+

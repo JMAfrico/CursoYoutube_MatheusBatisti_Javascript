@@ -2,6 +2,8 @@
 //Permite executar uma função depois de uma determina ação
 //Conceito fundamental para entender a parte assíncrona do JS
 
+//EXPLICAÇÃO DE CALL BACK SINCRONA
+//OU SEJA, AQUI EXECUTAMOS ELA NO MESMO MOMENTO EM QUE ESTAMOS EXECUTANDO OUTRA FUNÇÃO
 //comum
 function soma(a,b){
     var op = a+b;
